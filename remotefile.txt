@@ -1,1 +1,3 @@
 remotefile.txt
+remotefile remote edit 1
+remotefile remote edit 2
