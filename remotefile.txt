@@ -4,3 +4,4 @@ remotefile remote edit 2
 local edit remotefile
 remotefile remote edit 3
 remotefile remote edit 4
+remotefile remote edit 5
