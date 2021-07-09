@@ -1,3 +1,0 @@
-temp.txt
-1) remote
-2) local
