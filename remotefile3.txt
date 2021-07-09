@@ -1,3 +1,4 @@
-HEAD mybranch2
+HEAD
 remotefile3
 remotefile3 remote edit 1
+BOTTOM
