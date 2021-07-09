@@ -2,4 +2,6 @@ remotefile2
 remotefile2 remote edit 1
 remotefile2 remote edit 2
 remotefile2 remote edit 3
+local edit remotefile2 4
 remotefile2 remote edit 5
+
