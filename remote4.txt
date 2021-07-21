@@ -1,3 +1,4 @@
-edit remote4 txt file in while created remote 5_1 and remote 5_2
+edit remote4 txt file
 edit remote4 remotely
 edit remote4 locally
+other developer edit 
