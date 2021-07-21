@@ -1,6 +1,7 @@
-edit remote4 txt file
+update remote4 txt file 
+other new development
 edit remote4 remotely
 update feature1
 edit remote4 locally
-other developer edit 
+other developer updated again
 update feature2
