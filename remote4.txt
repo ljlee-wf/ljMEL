@@ -6,3 +6,5 @@ edit remote4 locally
 other developer updated again
 update feature2
 fix bug here
+
+add text at line 9
