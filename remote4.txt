@@ -1,5 +1,5 @@
 update remote4 txt file 
-other new development
+feature new development
 edit remote4 remotely
 update feature1
 edit remote4 locally
@@ -8,3 +8,4 @@ update feature2
 fix bug here
 
 add text at line 9
+add new feature
