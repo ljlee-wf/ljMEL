@@ -1,0 +1,2 @@
+create for my_cool_feature branch
+add a new line
